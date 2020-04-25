@@ -7,488 +7,8 @@
 		"uuidString": "A334E912-127F-4933-92D5-AD8E55A35FBF"
 		}
 	],
-"creatorBuild": "29156",
+"creatorBuild": "32001",
 "files": {
-	"/bootstrap/js/dist/alert.js": {
-		"bF": 0,
-		"ft": 64,
-		"ma": 0,
-		"mi": 1,
-		"oA": 0,
-		"oAP": "/bootstrap/js/dist/alert-min.js",
-		"oF": 0,
-		"sC": 3,
-		"tS": 0
-		},
-	"/bootstrap/js/dist/alert.js.map": {
-		"cB": 0,
-		"ft": 8192,
-		"hM": 0,
-		"oA": 0,
-		"oAP": "/bootstrap/js/dist/alert.js.map",
-		"oF": 0
-		},
-	"/bootstrap/js/dist/button.js": {
-		"bF": 0,
-		"ft": 64,
-		"ma": 0,
-		"mi": 1,
-		"oA": 0,
-		"oAP": "/bootstrap/js/dist/button-min.js",
-		"oF": 0,
-		"sC": 3,
-		"tS": 0
-		},
-	"/bootstrap/js/dist/button.js.map": {
-		"cB": 0,
-		"ft": 8192,
-		"hM": 0,
-		"oA": 0,
-		"oAP": "/bootstrap/js/dist/button.js.map",
-		"oF": 0
-		},
-	"/bootstrap/js/dist/carousel.js": {
-		"bF": 0,
-		"ft": 64,
-		"ma": 0,
-		"mi": 1,
-		"oA": 0,
-		"oAP": "/bootstrap/js/dist/carousel-min.js",
-		"oF": 0,
-		"sC": 3,
-		"tS": 0
-		},
-	"/bootstrap/js/dist/carousel.js.map": {
-		"cB": 0,
-		"ft": 8192,
-		"hM": 0,
-		"oA": 0,
-		"oAP": "/bootstrap/js/dist/carousel.js.map",
-		"oF": 0
-		},
-	"/bootstrap/js/dist/collapse.js": {
-		"bF": 0,
-		"ft": 64,
-		"ma": 0,
-		"mi": 1,
-		"oA": 0,
-		"oAP": "/bootstrap/js/dist/collapse-min.js",
-		"oF": 0,
-		"sC": 3,
-		"tS": 0
-		},
-	"/bootstrap/js/dist/collapse.js.map": {
-		"cB": 0,
-		"ft": 8192,
-		"hM": 0,
-		"oA": 0,
-		"oAP": "/bootstrap/js/dist/collapse.js.map",
-		"oF": 0
-		},
-	"/bootstrap/js/dist/dropdown.js": {
-		"bF": 0,
-		"ft": 64,
-		"ma": 0,
-		"mi": 1,
-		"oA": 0,
-		"oAP": "/bootstrap/js/dist/dropdown-min.js",
-		"oF": 0,
-		"sC": 3,
-		"tS": 0
-		},
-	"/bootstrap/js/dist/dropdown.js.map": {
-		"cB": 0,
-		"ft": 8192,
-		"hM": 0,
-		"oA": 0,
-		"oAP": "/bootstrap/js/dist/dropdown.js.map",
-		"oF": 0
-		},
-	"/bootstrap/js/dist/index.js": {
-		"bF": 0,
-		"ft": 64,
-		"ma": 0,
-		"mi": 1,
-		"oA": 0,
-		"oAP": "/bootstrap/js/dist/index-min.js",
-		"oF": 0,
-		"sC": 3,
-		"tS": 0
-		},
-	"/bootstrap/js/dist/index.js.map": {
-		"cB": 0,
-		"ft": 8192,
-		"hM": 0,
-		"oA": 0,
-		"oAP": "/bootstrap/js/dist/index.js.map",
-		"oF": 0
-		},
-	"/bootstrap/js/dist/modal.js": {
-		"bF": 0,
-		"ft": 64,
-		"ma": 0,
-		"mi": 1,
-		"oA": 0,
-		"oAP": "/bootstrap/js/dist/modal-min.js",
-		"oF": 0,
-		"sC": 3,
-		"tS": 0
-		},
-	"/bootstrap/js/dist/modal.js.map": {
-		"cB": 0,
-		"ft": 8192,
-		"hM": 0,
-		"oA": 0,
-		"oAP": "/bootstrap/js/dist/modal.js.map",
-		"oF": 0
-		},
-	"/bootstrap/js/dist/popover.js": {
-		"bF": 0,
-		"ft": 64,
-		"ma": 0,
-		"mi": 1,
-		"oA": 0,
-		"oAP": "/bootstrap/js/dist/popover-min.js",
-		"oF": 0,
-		"sC": 3,
-		"tS": 0
-		},
-	"/bootstrap/js/dist/popover.js.map": {
-		"cB": 0,
-		"ft": 8192,
-		"hM": 0,
-		"oA": 0,
-		"oAP": "/bootstrap/js/dist/popover.js.map",
-		"oF": 0
-		},
-	"/bootstrap/js/dist/scrollspy.js": {
-		"bF": 0,
-		"ft": 64,
-		"ma": 0,
-		"mi": 1,
-		"oA": 0,
-		"oAP": "/bootstrap/js/dist/scrollspy-min.js",
-		"oF": 0,
-		"sC": 3,
-		"tS": 0
-		},
-	"/bootstrap/js/dist/scrollspy.js.map": {
-		"cB": 0,
-		"ft": 8192,
-		"hM": 0,
-		"oA": 0,
-		"oAP": "/bootstrap/js/dist/scrollspy.js.map",
-		"oF": 0
-		},
-	"/bootstrap/js/dist/tab.js": {
-		"bF": 0,
-		"ft": 64,
-		"ma": 0,
-		"mi": 1,
-		"oA": 0,
-		"oAP": "/bootstrap/js/dist/tab-min.js",
-		"oF": 0,
-		"sC": 3,
-		"tS": 0
-		},
-	"/bootstrap/js/dist/tab.js.map": {
-		"cB": 0,
-		"ft": 8192,
-		"hM": 0,
-		"oA": 0,
-		"oAP": "/bootstrap/js/dist/tab.js.map",
-		"oF": 0
-		},
-	"/bootstrap/js/dist/toast.js": {
-		"bF": 0,
-		"ft": 64,
-		"ma": 0,
-		"mi": 1,
-		"oA": 0,
-		"oAP": "/bootstrap/js/dist/toast-min.js",
-		"oF": 0,
-		"sC": 3,
-		"tS": 0
-		},
-	"/bootstrap/js/dist/toast.js.map": {
-		"cB": 0,
-		"ft": 8192,
-		"hM": 0,
-		"oA": 0,
-		"oAP": "/bootstrap/js/dist/toast.js.map",
-		"oF": 0
-		},
-	"/bootstrap/js/dist/tooltip.js": {
-		"bF": 0,
-		"ft": 64,
-		"ma": 0,
-		"mi": 1,
-		"oA": 0,
-		"oAP": "/bootstrap/js/dist/tooltip-min.js",
-		"oF": 0,
-		"sC": 3,
-		"tS": 0
-		},
-	"/bootstrap/js/dist/tooltip.js.map": {
-		"cB": 0,
-		"ft": 8192,
-		"hM": 0,
-		"oA": 0,
-		"oAP": "/bootstrap/js/dist/tooltip.js.map",
-		"oF": 0
-		},
-	"/bootstrap/js/dist/util.js": {
-		"bF": 0,
-		"ft": 64,
-		"ma": 0,
-		"mi": 1,
-		"oA": 0,
-		"oAP": "/bootstrap/js/dist/util-min.js",
-		"oF": 0,
-		"sC": 3,
-		"tS": 0
-		},
-	"/bootstrap/js/dist/util.js.map": {
-		"cB": 0,
-		"ft": 8192,
-		"hM": 0,
-		"oA": 0,
-		"oAP": "/bootstrap/js/dist/util.js.map",
-		"oF": 0
-		},
-	"/bootstrap/js/src/alert.js": {
-		"bF": 0,
-		"ft": 64,
-		"ma": 0,
-		"mi": 1,
-		"oA": 1,
-		"oAP": "/bootstrap/js/src/alert-min.js",
-		"oF": 0,
-		"sC": 3,
-		"tS": 0
-		},
-	"/bootstrap/js/src/button.js": {
-		"bF": 0,
-		"ft": 64,
-		"ma": 0,
-		"mi": 1,
-		"oA": 1,
-		"oAP": "/bootstrap/js/src/button-min.js",
-		"oF": 0,
-		"sC": 3,
-		"tS": 0
-		},
-	"/bootstrap/js/src/carousel.js": {
-		"bF": 0,
-		"ft": 64,
-		"ma": 0,
-		"mi": 1,
-		"oA": 1,
-		"oAP": "/bootstrap/js/src/carousel-min.js",
-		"oF": 0,
-		"sC": 3,
-		"tS": 0
-		},
-	"/bootstrap/js/src/collapse.js": {
-		"bF": 0,
-		"ft": 64,
-		"ma": 0,
-		"mi": 1,
-		"oA": 1,
-		"oAP": "/bootstrap/js/src/collapse-min.js",
-		"oF": 0,
-		"sC": 3,
-		"tS": 0
-		},
-	"/bootstrap/js/src/dropdown.js": {
-		"bF": 0,
-		"ft": 64,
-		"ma": 0,
-		"mi": 1,
-		"oA": 1,
-		"oAP": "/bootstrap/js/src/dropdown-min.js",
-		"oF": 0,
-		"sC": 3,
-		"tS": 0
-		},
-	"/bootstrap/js/src/index.js": {
-		"bF": 0,
-		"ft": 64,
-		"ma": 0,
-		"mi": 1,
-		"oA": 0,
-		"oAP": "/bootstrap/js/src/index-min.js",
-		"oF": 0,
-		"sC": 3,
-		"tS": 0
-		},
-	"/bootstrap/js/src/modal.js": {
-		"bF": 0,
-		"ft": 64,
-		"ma": 0,
-		"mi": 1,
-		"oA": 1,
-		"oAP": "/bootstrap/js/src/modal-min.js",
-		"oF": 0,
-		"sC": 3,
-		"tS": 0
-		},
-	"/bootstrap/js/src/popover.js": {
-		"bF": 0,
-		"ft": 64,
-		"ma": 0,
-		"mi": 1,
-		"oA": 1,
-		"oAP": "/bootstrap/js/src/popover-min.js",
-		"oF": 0,
-		"sC": 3,
-		"tS": 0
-		},
-	"/bootstrap/js/src/scrollspy.js": {
-		"bF": 0,
-		"ft": 64,
-		"ma": 0,
-		"mi": 1,
-		"oA": 1,
-		"oAP": "/bootstrap/js/src/scrollspy-min.js",
-		"oF": 0,
-		"sC": 3,
-		"tS": 0
-		},
-	"/bootstrap/js/src/tab.js": {
-		"bF": 0,
-		"ft": 64,
-		"ma": 0,
-		"mi": 1,
-		"oA": 1,
-		"oAP": "/bootstrap/js/src/tab-min.js",
-		"oF": 0,
-		"sC": 3,
-		"tS": 0
-		},
-	"/bootstrap/js/src/toast.js": {
-		"bF": 0,
-		"ft": 64,
-		"ma": 0,
-		"mi": 1,
-		"oA": 1,
-		"oAP": "/bootstrap/js/src/toast-min.js",
-		"oF": 0,
-		"sC": 3,
-		"tS": 0
-		},
-	"/bootstrap/js/src/tools/sanitizer.js": {
-		"bF": 0,
-		"ft": 64,
-		"ma": 0,
-		"mi": 1,
-		"oA": 0,
-		"oAP": "/bootstrap/js/src/tools/sanitizer-min.js",
-		"oF": 0,
-		"sC": 3,
-		"tS": 0
-		},
-	"/bootstrap/js/src/tooltip.js": {
-		"bF": 0,
-		"ft": 64,
-		"ma": 0,
-		"mi": 1,
-		"oA": 1,
-		"oAP": "/bootstrap/js/src/tooltip-min.js",
-		"oF": 0,
-		"sC": 3,
-		"tS": 0
-		},
-	"/bootstrap/js/src/util.js": {
-		"bF": 0,
-		"ft": 64,
-		"ma": 0,
-		"mi": 1,
-		"oA": 1,
-		"oAP": "/bootstrap/js/src/util-min.js",
-		"oF": 0,
-		"sC": 3,
-		"tS": 0
-		},
-	"/bootstrap/js/tests/browsers.js": {
-		"bF": 0,
-		"ft": 64,
-		"ma": 0,
-		"mi": 1,
-		"oA": 0,
-		"oAP": "/bootstrap/js/tests/browsers-min.js",
-		"oF": 0,
-		"sC": 3,
-		"tS": 0
-		},
-	"/bootstrap/js/tests/index.html": {
-		"cB": 0,
-		"ft": 8192,
-		"hM": 0,
-		"oA": 0,
-		"oAP": "/bootstrap/js/tests/index.html",
-		"oF": 0
-		},
-	"/bootstrap/js/tests/integration/bundle.js": {
-		"bF": 0,
-		"ft": 64,
-		"ma": 0,
-		"mi": 1,
-		"oA": 0,
-		"oAP": "/bootstrap/js/tests/integration/bundle-min.js",
-		"oF": 0,
-		"sC": 3,
-		"tS": 0
-		},
-	"/bootstrap/js/tests/integration/index.html": {
-		"cB": 0,
-		"ft": 8192,
-		"hM": 0,
-		"oA": 0,
-		"oAP": "/bootstrap/js/tests/integration/index.html",
-		"oF": 0
-		},
-	"/bootstrap/js/tests/integration/rollup.bundle.js": {
-		"bF": 0,
-		"ft": 64,
-		"ma": 0,
-		"mi": 1,
-		"oA": 0,
-		"oAP": "/bootstrap/js/tests/integration/rollup.bundle-min.js",
-		"oF": 0,
-		"sC": 3,
-		"tS": 0
-		},
-	"/bootstrap/js/tests/karma.conf.js": {
-		"bF": 0,
-		"ft": 64,
-		"ma": 0,
-		"mi": 1,
-		"oA": 0,
-		"oAP": "/bootstrap/js/tests/karma.conf-min.js",
-		"oF": 0,
-		"sC": 3,
-		"tS": 0
-		},
-	"/bootstrap/js/tests/README.md": {
-		"cB": 0,
-		"cS": 0,
-		"eF": 1,
-		"eL": 1,
-		"ema": 1,
-		"eSQ": 1,
-		"ft": 4096,
-		"hM": 0,
-		"oA": 0,
-		"oAP": "/bootstrap/js/tests/README.html",
-		"oF": 0,
-		"oFM": 0,
-		"oS": 0,
-		"pHT": 0,
-		"pME": 1,
-		"rFN": 0,
-		"uCM": 0
-		},
 	"/bootstrap/js/tests/unit/.eslintrc.json": {
 		"ft": 524288,
 		"oA": 1,
@@ -496,226 +16,6 @@
 		"oF": 0,
 		"oO": 0,
 		"oS": 1
-		},
-	"/bootstrap/js/tests/unit/alert.js": {
-		"bF": 0,
-		"ft": 64,
-		"ma": 0,
-		"mi": 1,
-		"oA": 0,
-		"oAP": "/bootstrap/js/tests/unit/alert-min.js",
-		"oF": 0,
-		"sC": 3,
-		"tS": 0
-		},
-	"/bootstrap/js/tests/unit/button.js": {
-		"bF": 0,
-		"ft": 64,
-		"ma": 0,
-		"mi": 1,
-		"oA": 0,
-		"oAP": "/bootstrap/js/tests/unit/button-min.js",
-		"oF": 0,
-		"sC": 3,
-		"tS": 0
-		},
-	"/bootstrap/js/tests/unit/carousel.js": {
-		"bF": 0,
-		"ft": 64,
-		"ma": 0,
-		"mi": 1,
-		"oA": 0,
-		"oAP": "/bootstrap/js/tests/unit/carousel-min.js",
-		"oF": 0,
-		"sC": 3,
-		"tS": 0
-		},
-	"/bootstrap/js/tests/unit/collapse.js": {
-		"bF": 0,
-		"ft": 64,
-		"ma": 0,
-		"mi": 1,
-		"oA": 0,
-		"oAP": "/bootstrap/js/tests/unit/collapse-min.js",
-		"oF": 0,
-		"sC": 3,
-		"tS": 0
-		},
-	"/bootstrap/js/tests/unit/dropdown.js": {
-		"bF": 0,
-		"ft": 64,
-		"ma": 0,
-		"mi": 1,
-		"oA": 0,
-		"oAP": "/bootstrap/js/tests/unit/dropdown-min.js",
-		"oF": 0,
-		"sC": 3,
-		"tS": 0
-		},
-	"/bootstrap/js/tests/unit/modal.js": {
-		"bF": 0,
-		"ft": 64,
-		"ma": 0,
-		"mi": 1,
-		"oA": 0,
-		"oAP": "/bootstrap/js/tests/unit/modal-min.js",
-		"oF": 0,
-		"sC": 3,
-		"tS": 0
-		},
-	"/bootstrap/js/tests/unit/popover.js": {
-		"bF": 0,
-		"ft": 64,
-		"ma": 0,
-		"mi": 1,
-		"oA": 0,
-		"oAP": "/bootstrap/js/tests/unit/popover-min.js",
-		"oF": 0,
-		"sC": 3,
-		"tS": 0
-		},
-	"/bootstrap/js/tests/unit/scrollspy.js": {
-		"bF": 0,
-		"ft": 64,
-		"ma": 0,
-		"mi": 1,
-		"oA": 0,
-		"oAP": "/bootstrap/js/tests/unit/scrollspy-min.js",
-		"oF": 0,
-		"sC": 3,
-		"tS": 0
-		},
-	"/bootstrap/js/tests/unit/tab.js": {
-		"bF": 0,
-		"ft": 64,
-		"ma": 0,
-		"mi": 1,
-		"oA": 0,
-		"oAP": "/bootstrap/js/tests/unit/tab-min.js",
-		"oF": 0,
-		"sC": 3,
-		"tS": 0
-		},
-	"/bootstrap/js/tests/unit/toast.js": {
-		"bF": 0,
-		"ft": 64,
-		"ma": 0,
-		"mi": 1,
-		"oA": 0,
-		"oAP": "/bootstrap/js/tests/unit/toast-min.js",
-		"oF": 0,
-		"sC": 3,
-		"tS": 0
-		},
-	"/bootstrap/js/tests/unit/tooltip.js": {
-		"bF": 0,
-		"ft": 64,
-		"ma": 0,
-		"mi": 1,
-		"oA": 0,
-		"oAP": "/bootstrap/js/tests/unit/tooltip-min.js",
-		"oF": 0,
-		"sC": 3,
-		"tS": 0
-		},
-	"/bootstrap/js/tests/unit/util.js": {
-		"bF": 0,
-		"ft": 64,
-		"ma": 0,
-		"mi": 1,
-		"oA": 0,
-		"oAP": "/bootstrap/js/tests/unit/util-min.js",
-		"oF": 0,
-		"sC": 3,
-		"tS": 0
-		},
-	"/bootstrap/js/tests/visual/alert.html": {
-		"cB": 0,
-		"ft": 8192,
-		"hM": 0,
-		"oA": 0,
-		"oAP": "/bootstrap/js/tests/visual/alert.html",
-		"oF": 0
-		},
-	"/bootstrap/js/tests/visual/button.html": {
-		"cB": 0,
-		"ft": 8192,
-		"hM": 0,
-		"oA": 0,
-		"oAP": "/bootstrap/js/tests/visual/button.html",
-		"oF": 0
-		},
-	"/bootstrap/js/tests/visual/carousel.html": {
-		"cB": 0,
-		"ft": 8192,
-		"hM": 0,
-		"oA": 0,
-		"oAP": "/bootstrap/js/tests/visual/carousel.html",
-		"oF": 0
-		},
-	"/bootstrap/js/tests/visual/collapse.html": {
-		"cB": 0,
-		"ft": 8192,
-		"hM": 0,
-		"oA": 0,
-		"oAP": "/bootstrap/js/tests/visual/collapse.html",
-		"oF": 0
-		},
-	"/bootstrap/js/tests/visual/dropdown.html": {
-		"cB": 0,
-		"ft": 8192,
-		"hM": 0,
-		"oA": 0,
-		"oAP": "/bootstrap/js/tests/visual/dropdown.html",
-		"oF": 0
-		},
-	"/bootstrap/js/tests/visual/modal.html": {
-		"cB": 0,
-		"ft": 8192,
-		"hM": 0,
-		"oA": 0,
-		"oAP": "/bootstrap/js/tests/visual/modal.html",
-		"oF": 0
-		},
-	"/bootstrap/js/tests/visual/popover.html": {
-		"cB": 0,
-		"ft": 8192,
-		"hM": 0,
-		"oA": 0,
-		"oAP": "/bootstrap/js/tests/visual/popover.html",
-		"oF": 0
-		},
-	"/bootstrap/js/tests/visual/scrollspy.html": {
-		"cB": 0,
-		"ft": 8192,
-		"hM": 0,
-		"oA": 0,
-		"oAP": "/bootstrap/js/tests/visual/scrollspy.html",
-		"oF": 0
-		},
-	"/bootstrap/js/tests/visual/tab.html": {
-		"cB": 0,
-		"ft": 8192,
-		"hM": 0,
-		"oA": 0,
-		"oAP": "/bootstrap/js/tests/visual/tab.html",
-		"oF": 0
-		},
-	"/bootstrap/js/tests/visual/toast.html": {
-		"cB": 0,
-		"ft": 8192,
-		"hM": 0,
-		"oA": 0,
-		"oAP": "/bootstrap/js/tests/visual/toast.html",
-		"oF": 0
-		},
-	"/bootstrap/js/tests/visual/tooltip.html": {
-		"cB": 0,
-		"ft": 8192,
-		"hM": 0,
-		"oA": 0,
-		"oAP": "/bootstrap/js/tests/visual/tooltip.html",
-		"oF": 0
 		},
 	"/bootstrap/scss/_alert.scss": {
 		"aP": 0,
@@ -1194,32 +494,6 @@
 		"ma": 0,
 		"oA": 1,
 		"oAP": "/bootstrap/scss/_variables.css",
-		"oF": 0,
-		"oS": 0,
-		"uL": 1
-		},
-	"/bootstrap/scss/bootstrap-grid.scss": {
-		"aP": 0,
-		"bl": 0,
-		"dP": 10,
-		"dS": 0,
-		"ft": 4,
-		"ma": 0,
-		"oA": 0,
-		"oAP": "/bootstrap/scss/bootstrap-grid.css",
-		"oF": 0,
-		"oS": 0,
-		"uL": 1
-		},
-	"/bootstrap/scss/bootstrap-reboot.scss": {
-		"aP": 0,
-		"bl": 0,
-		"dP": 10,
-		"dS": 0,
-		"ft": 4,
-		"ma": 0,
-		"oA": 0,
-		"oAP": "/bootstrap/scss/bootstrap-reboot.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
@@ -1901,6 +1175,7 @@
 	},
 "projectSettings": {
 	"abortBuildOnError": 1,
+	"allowInjectionReloads": 1,
 	"alwaysUseExternalServer": 0,
 	"animateCSSInjections": 1,
 	"autoBuildNewItems": 1,
@@ -1912,6 +1187,7 @@
 	"babelConfigType": 0,
 	"babelCustomPluginsList": "",
 	"babelCustomPresetsList": "",
+	"babelExcludeString": "'node_modules/**', 'bower_components/**', /\\/core-js\\//",
 	"babelInsertModuleIDs": 0,
 	"babelModuleID": "",
 	"babelNoComments": 0,
@@ -2051,6 +1327,9 @@
 		"modules-umd": {
 			"active": 0
 			},
+		"named-capturing-groups-regex": {
+			"active": 0
+			},
 		"new-target": {
 			"active": 0
 			},
@@ -2082,6 +1361,9 @@
 			"active": 0
 			},
 		"parameters": {
+			"active": 0
+			},
+		"partial-application": {
 			"active": 0
 			},
 		"pipeline-operator": {
@@ -2176,11 +1458,10 @@
 			}
 		},
 	"babelRetainLines": 0,
+	"babelUseBuiltInsType": 0,
 	"bowerAbbreviatedPath": "bower_components",
-	"bowerAutoCreateInfoFile": 1,
-	"bowerInstallDevDependencies": 0,
-	"bowerSaveDependencies": 1,
-	"bowerSaveDevDependencies": 0,
+	"bowerForceLatestOnConflict": 1,
+	"bowerTargetDependencyListType": 1,
 	"bowerUseExactVersion": 0,
 	"browserRefreshDelay": 0,
 	"browserslistString": ">0.2%, last 2 versions, Firefox ESR, not dead",
@@ -2325,6 +1606,7 @@
 			"flagValue": -1
 			}
 		},
+	"environmentVariablesString": "NODE_ENV:::production",
 	"esLintConfigFileHandlingType": 0,
 	"esLintECMAVersion": 7,
 	"esLintEnvironmentsMask": 1,
@@ -2429,6 +1711,10 @@
 			"active": 0,
 			"optionString": ""
 			},
+		"default-param-last": {
+			"active": 0,
+			"optionString": ""
+			},
 		"dot-location": {
 			"active": 0,
 			"optionString": "'object'"
@@ -2480,6 +1766,10 @@
 		"global-require": {
 			"active": 0,
 			"optionString": ""
+			},
+		"grouped-accessor-pairs": {
+			"active": 0,
+			"optionString": "'anyOrder'"
 			},
 		"guard-for-in": {
 			"active": 0,
@@ -2657,6 +1947,10 @@
 			"active": 1,
 			"optionString": "{'checkLoops': true}"
 			},
+		"no-constructor-return": {
+			"active": 0,
+			"optionString": ""
+			},
 		"no-continue": {
 			"active": 0,
 			"optionString": ""
@@ -2682,6 +1976,10 @@
 			"optionString": ""
 			},
 		"no-dupe-class-members": {
+			"active": 1,
+			"optionString": ""
+			},
+		"no-dupe-else-if": {
 			"active": 1,
 			"optionString": ""
 			},
@@ -2775,6 +2073,10 @@
 			},
 		"no-implied-eval": {
 			"active": 0,
+			"optionString": ""
+			},
+		"no-import-assign": {
+			"active": 1,
 			"optionString": ""
 			},
 		"no-inline-comments": {
@@ -2981,6 +2283,10 @@
 			"active": 0,
 			"optionString": ""
 			},
+		"no-setter-return": {
+			"active": 1,
+			"optionString": ""
+			},
 		"no-shadow": {
 			"active": 0,
 			"optionString": "{'builtinGlobals': false, 'hoist': 'functions', 'allow': []}"
@@ -3185,6 +2491,14 @@
 			"active": 0,
 			"optionString": "{'array': true, 'object': true}, {'enforceForRenamedProperties': false}"
 			},
+		"prefer-exponentiation-operator": {
+			"active": 0,
+			"optionString": ""
+			},
+		"prefer-named-capture-group": {
+			"active": 0,
+			"optionString": ""
+			},
 		"prefer-numeric-literals": {
 			"active": 0,
 			"optionString": ""
@@ -3196,6 +2510,10 @@
 		"prefer-promise-reject-errors": {
 			"active": 0,
 			"optionString": "{'allowEmptyReject': false}"
+			},
+		"prefer-regex-literals": {
+			"active": 0,
+			"optionString": ""
 			},
 		"prefer-rest-params": {
 			"active": 0,
@@ -3805,7 +3123,6 @@
 		"autoOutputPathStyle": 0,
 		"createSourceMap": 1,
 		"enableJavascript": 0,
-		"ieCompatibility": 0,
 		"mathStyle": 0,
 		"outputStyle": 0,
 		"rewriteURLStyle": 0,
@@ -3938,8 +3255,16 @@
 		},
 	"languageDefaultsUserDefined": [
 		],
+	"npmAbbreviatedPath": "",
+	"npmCreatePackageLock": 1,
+	"npmInstallOptionalDependencies": 0,
+	"npmSaveExactVersion": 0,
+	"npmTargetDependencyListType": 1,
 	"overrideExternalServerCSS": 0,
 	"previewPathAddition": "",
+	"rollupExternals": "",
+	"rollupReplacements": "process.env.NODE_ENV:::$NODE_ENV,,,ENVIRONMENT:::$NODE_ENV",
+	"rollupTreeshakingEnabled": 1,
 	"skippedFoldersString": "log, _logs, logs, _cache, cache, .idea, /storage/framework/sessions, node_modules",
 	"sourceFolderName": "source",
 	"susyVersion": 3,
