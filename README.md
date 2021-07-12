@@ -4,7 +4,7 @@
 
 **Demo:** https://themes.3rdwavemedia.com/demo/bs5/devresume/
 
-DevResume is a **free Bootstrap 5 resume/CV template** I made for software developers. Built on **Bootstrap 5 and SASS**, it's quick and easy to change the template styling. This template is designed to **help you **build your personal brand and attract better clients**!
+DevResume is a **free Bootstrap 5 resume/CV template** I made for software developers. Built on **Bootstrap 5 and SASS**, it's quick and easy to change the template styling. This template is designed to help you **build your personal brand and attract better clients**!
 
 ## Author & License
 
