@@ -1,10 +1,10 @@
-<a href="https://themes.3rdwavemedia.com/bootstrap-templates/resume/devresume-free-bootstrap-4-resume-cv-template-for-developers/" target="_blank"><img src="https://themes.3rdwavemedia.com/wp-content/uploads/2019/04/Bootstrap-Resume-CV-Template-DevResume-Promo.jpg" alt="DevResume - Bootstrap 4 Resume/CV Template for Developers" /></a>
+<a href="https://themes.3rdwavemedia.com/bootstrap-templates/resume/devresume-free-bootstrap-4-resume-cv-template-for-developers/" target="_blank"><img src="https://themes.3rdwavemedia.com/wp-content/uploads/2019/04/Bootstrap-Resume-CV-Template-DevResume-Promo.png" alt="DevResume - Bootstrap 5 Resume/CV Template for Developers" /></a>
 
 ## Theme Details & Demo
 
 **Demo:** https://themes.3rdwavemedia.com/demo/devresume/
 
-DevResume is a **free Bootstrap 4 resume/CV template** I made for software developers. Built on **Bootstrap 4 and SASS**, it's quick and easy to change the template styling. This template is designed to **help you **build your personal brand and attract better clients**!
+DevResume is a **free Bootstrap 5 resume/CV template** I made for software developers. Built on **Bootstrap 5 and SASS**, it's quick and easy to change the template styling. This template is designed to **help you **build your personal brand and attract better clients**!
 
 ## Author & License
 
@@ -28,7 +28,7 @@ If you'd like to **use the template without the attribution link**, you can [buy
 
 
 ## Latest Version
-**v1.2** - 10 Oct 2020
+**Bootstrap 5 v1.0** - 2021-07-12
 
 [Changelog](https://themes.3rdwavemedia.com/bootstrap-templates/resume/devresume-free-bootstrap-4-resume-cv-template-for-developers/?target=changelog)
 
@@ -37,7 +37,7 @@ If you'd like to **use the template without the attribution link**, you can [buy
 
 -  Fully Responsive
 -  HTML5 + CSS3
--  Built on Bootstrap 4
+-  Built on Bootstrap 5
 -  **SCSS** source files included
 -  1000+ FontAwesome 5 icons
 -  Compatible with all modern browsers
