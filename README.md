@@ -1,4 +1,4 @@
-<a href="https://themes.3rdwavemedia.com/bootstrap-templates/resume/devresume-free-bootstrap-4-resume-cv-template-for-developers/" target="_blank"><img src="https://themes.3rdwavemedia.com/wp-content/uploads/2019/04/Bootstrap-Resume-CV-Template-DevResume-Promo-1.png" alt="DevResume - Bootstrap 5 Resume/CV Template for Developers" /></a>
+<a href="https://themes.3rdwavemedia.com/bootstrap-templates/resume/devresume-free-bootstrap-5-resume-cv-template-for-developers/" target="_blank"><img src="https://themes.3rdwavemedia.com/wp-content/uploads/2019/04/Bootstrap-Resume-CV-Template-DevResume-Promo-1.png" alt="DevResume - Bootstrap 5 Resume/CV Template for Developers" /></a>
 
 ## Theme Details & Demo
 
@@ -11,7 +11,7 @@ DevResume is a **free Bootstrap 5 resume/CV template** I made for software devel
 This Bootstrap template is made by UX/UI designer [Xiaoying Riley](https://twitter.com/3rdwave_themes) for developers and is 100% FREE as long as you **keep the footer attribution link**. You do not have the rights to resell, sublicense or redistribute (even for free) the template on its own or as a separate attachment from any of your work.
 
 
-If you'd like to **use the template without the attribution link**, you can [buy the **commercial license** via the theme website](https://themes.3rdwavemedia.com/bootstrap-templates/resume/devresume-free-bootstrap-4-resume-cv-template-for-developers/)
+If you'd like to **use the template without the attribution link**, you can [buy the **commercial license** via the theme website](https://themes.3rdwavemedia.com/bootstrap-templates/resume/devresume-free-bootstrap-5-resume-cv-template-for-developers/)
 
 
 #### Follow Xiaoying
@@ -28,9 +28,9 @@ If you'd like to **use the template without the attribution link**, you can [buy
 
 
 ## Latest Version
-**Bootstrap 5 v1.0** - 2021-07-12
+**Bootstrap 5 v2.0** - 2022-05-26
 
-[Changelog](https://themes.3rdwavemedia.com/bootstrap-templates/resume/devresume-free-bootstrap-4-resume-cv-template-for-developers/?target=changelog)
+[Changelog](https://themes.3rdwavemedia.com/bootstrap-templates/resume/devresume-free-bootstrap-5-resume-cv-template-for-developers/?target=changelog)
 
 
 ## Features
@@ -39,7 +39,7 @@ If you'd like to **use the template without the attribution link**, you can [buy
 -  HTML5 + CSS3
 -  Built on Bootstrap 5
 -  **SCSS** source files included
--  1000+ FontAwesome 5 icons
+-  FontAwesome 6 icons
 -  Compatible with all modern browsers
 
 ## Credits
