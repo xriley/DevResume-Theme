@@ -28,7 +28,7 @@ If you'd like to **use the template without the attribution link**, you can [buy
 
 
 ## Latest Version
-**Bootstrap 5 v2.0** - 2022-05-26
+**Bootstrap 5 v3.0** - 2023-06-24
 
 [Changelog](https://themes.3rdwavemedia.com/bootstrap-templates/resume/devresume-free-bootstrap-5-resume-cv-template-for-developers/?target=changelog)
 
@@ -39,7 +39,7 @@ If you'd like to **use the template without the attribution link**, you can [buy
 -  HTML5 + CSS3
 -  Built on Bootstrap 5
 -  **SCSS** source files included
--  FontAwesome 6 icons
+-  FontAwesome icons
 -  Compatible with all modern browsers
 
 ## Credits
