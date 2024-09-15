@@ -28,7 +28,7 @@ If you'd like to **use the template without the attribution link**, you can [buy
 
 
 ## Latest Version
-**Bootstrap 5 v3.0** - 2023-06-24
+**Bootstrap 5 v3.1** - 2024-09-15
 
 [Changelog](https://themes.3rdwavemedia.com/bootstrap-templates/resume/devresume-free-bootstrap-5-resume-cv-template-for-developers/?target=changelog)
 
