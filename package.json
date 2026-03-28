@@ -1,0 +1,31 @@
+{
+  "name": "devresume-theme",
+  "version": "1.0.0",
+  "description": "DevResume - TailwindCSS Resume/CV Template for Software Developers",
+  "scripts": {
+    "start": "serve",
+    "build:css": "postcss main.css -o assets/css/devresume.css",
+    "build:lucide": "cp node_modules/lucide/dist/umd/lucide.min.js assets/js/lucide.min.js",
+    "build": "npm run build:css && npm run build:lucide",
+    "watch": "postcss main.css -o assets/css/devresume.css -w"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xriley/DevResume-Theme.git"
+  },
+  "author": "Xiaoying Riley",
+  "bugs": {
+    "url": "https://github.com/xriley/DevResume-Theme/issues"
+  },
+  "homepage": "https://github.com/xriley/DevResume-Theme#readme",
+  "devDependencies": {
+    "autoprefixer": "^10.4.27",
+    "postcss": "^8.5.8",
+    "postcss-cli": "^11.0.1",
+    "serve": "^14.2.6",
+    "tailwindcss": "^3.4.19"
+  },
+  "dependencies": {
+    "lucide": "^0.577.0"
+  }
+}

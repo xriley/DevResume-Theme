@@ -1,0 +1,31 @@
+{
+  "version": "2.0.0",
+  "tasks": [
+    {
+      "type": "npm",
+      "script": "start",
+      "problemMatcher": [],
+      "label": "npm: start",
+      "detail": "serve"
+    },
+    {
+      "type": "npm",
+      "script": "watch",
+      "group": "build",
+      "problemMatcher": [],
+      "label": "npm: watch",
+      "detail": "postcss main.css -o assets/css/devresume.css -w"
+    },
+    {
+      "type": "npm",
+      "script": "build",
+      "group": {
+        "kind": "build",
+        "isDefault": true
+      },
+      "problemMatcher": [],
+      "label": "npm: build",
+      "detail": "npm run build:css && npm run build:lucide"
+    }
+  ]
+}
